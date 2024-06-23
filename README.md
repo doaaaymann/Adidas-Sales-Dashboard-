@@ -11,6 +11,6 @@ Interactive Dashboard
 Created a map visualization to display regional sales data.
 Included various charts and diagrams to track sales trends and performance metrics.
 
-Slicer Feature:
+Slicer Feature
 <br>Implemented a slicer feature to filter data by date, product, and region.
 Enhanced usability by allowing users to easily navigate and interact with the data.
