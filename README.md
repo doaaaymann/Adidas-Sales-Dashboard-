@@ -1,5 +1,5 @@
 Overview
-This project involves the development of an interactive sales dashboard for Adidas, built upon a dataset comprising 10,000 lines of sales data. The primary objectives were to clean and analyze the data, create meaningful visualizations, and implement a user-friendly interface for easy data navigation.
+<br> This project involves the development of an interactive sales dashboard for Adidas, built upon a dataset comprising 10,000 lines of sales data. The primary objectives were to clean and analyze the data, create meaningful visualizations, and implement a user-friendly interface for easy data navigation.
 
 Features
 Data Cleaning and Analysis
